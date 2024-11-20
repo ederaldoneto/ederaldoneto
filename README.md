@@ -17,8 +17,9 @@ Transição de carreira de Engenharia Civil para Tecnologia, movido pela paixão
 - **Angular:** Formulários Orientados a Templates (Alura).  
 - **Angular:** Design de Componentes com Acessibilidade (Alura).  
 - **Angular:** Componentização e Design com Angular Material (Alura).  
-- **Angular:** Ciclo de Vida (Alura).  
-- **Outros:** Git e GitHub, Python (Santander Open Academy).
+- **Angular:** Ciclo de Vida (Alura).
+- **Python** (Santander Open Academy).
+- **Outros:** Git e GitHub.
 
 ## ⚙️ Interesses Profissionais
 Busco crescer na área de desenvolvimento, especialmente no frontend.  
